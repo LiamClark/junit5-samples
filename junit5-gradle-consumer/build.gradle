@@ -44,7 +44,7 @@ junitPlatform {
 			// include 'fast'
 			exclude 'slow'
 		}
-		// includeClassNamePattern '.*Test'
+//		 includeClassNamePattern '.*Test'
 	}
 	// enableStandardTestTask true
 	// reportsDir file('build/test-results/junit-platform') // this is the default
